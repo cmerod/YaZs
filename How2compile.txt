@@ -1,0 +1,40 @@
+Files needed to compile the client:
+Avatar.c/h
+Client.c/h
+CommandDefinitions.h
+commandList.c/h
+commandManager.c/h
+Definitions.h
+Enemy.c/h
+Game.c/h
+Input.c/h
+levelManager.c/h
+main.c
+mapManager.c/h
+menu_main_scene.c/h
+Player.c/h
+scene_epilogue.c/h
+scene_intro_text.c/h
+scene_run_game.c/h
+sceneDefenitions.h
+sceneManager.c/h
+soundManager.c/h
+TextureManager.c/h
+TileManager.c/h
+TimeManager.c/h
+world.c/h Note: there are 2 world files differentiated by a capital letter
+
+Files needed to compile the server:
+Avatar.c/h
+CommandDefinitions.h
+CommandManager.c/h
+Definitions.h
+levelManager.c/h
+main.c
+Pathing.c/h
+Pixel.c/h
+Server.c/h
+TileManager.c/h
+TimeManager.c/h
+UDP.c/h
+World.c/h Note: there are 2 world files differentiated by a capital letter
