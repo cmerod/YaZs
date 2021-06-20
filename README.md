@@ -1,8 +1,8 @@
 # YaZs
-School project, creating a multiplayer game
+School project, creating a multiplayer game.
 
 
-The task was given at the end of the first year of my education at KTH.
+The task was given at the end of the first year of my education at KTH (Royal Institute of Technology in Stockholm).
 
 The requirements was to create a multiplayer computer game that implemented either TCP or UDP.
 A team of six students used C with the SDL library to create the game in less than three months.
