@@ -14,7 +14,7 @@ moves the players to the next map.
 
 VIDEO
 
-The video is a short showcase of the game. No more than a minute.
+The video is a short showcase of the game. No more than 30 seconds.
 
 SOURCE CODE
 
